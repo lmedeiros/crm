@@ -1,0 +1,52 @@
+BACKGROUND
+-----------------------------------------------------
+background Colour (Orange):		#ff7e00
+
+
+HEADING
+-----------------------------------------------------
+Heading Text colour (Orange):		#ff6600
+Heading Text colour (Grey):		#525252
+Heading line (grey):			#acacac
+
+
+
+
+RIGHT COLUMN
+-----------------------------------------------------
+Box BG colour:				#f3f3f3
+Box colour (1px line):			#ababab
+Orange Heading(Bold):			#ff6600	
+Grey Headings:				#555454
+Grey Text:				#686767
+Light Grey text (View all):		#b9b9b9
+Links(Orange):				#ff6600
+
+
+
+
+VIEW
+-----------------------------------------------------
+ADVANCE SEARCH:	BG colour:		#eeeeee
+		Box colour (1px line):	#acacac
+		Orange Text:		#ff6600
+
+
+
+DISPLAY SEARCH:	Header BG colour:	#505353
+		Box colour (1px line):	#505353
+		Selected BG:		#f0f0f0
+		Lines:			#cccccc
+		White Text(Bold):	white
+		Grey Text:		#656565
+		Orange Text(Bold):	#ff6600
+
+
+
+ADD
+-----------------------------------------------------
+ADD PEER:	BG colour:		#eeeeee
+		Box colour (1px line):	#acacac
+		Orange Text:		#ff6600
+		Light Grey text:	#a2a2a2
+
